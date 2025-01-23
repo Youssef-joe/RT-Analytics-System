@@ -56,8 +56,7 @@ OpenWeather API key (for weather-based recommendations).
 
 Setup : 
     1- Clone the repository:
-            git clone https://github.com/your-username/real-time-sales-analytics.git
-            cd real-time-sales-analytics
+            
 
     2-Install dependencies: 
             npm install
